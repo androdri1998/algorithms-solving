@@ -1,4 +1,4 @@
-const checkRulesToFirstVariable = (variable) => {
+const checkConstraintsToFirstVariable = (variable) => {
   if (variable >= 1) {
     return true;
   }
@@ -6,7 +6,7 @@ const checkRulesToFirstVariable = (variable) => {
   return false;
 }
 
-const checkRulesToSecondVariable = (variable) => {
+const checkConstraintsToSecondVariable = (variable) => {
   if (variable <= 1000) {
     return true;
   }
@@ -15,7 +15,7 @@ const checkRulesToSecondVariable = (variable) => {
 }
 
 const sumValues = (firstNumber, secondNumber) => {
-  if(checkRulesToFirstVariable(firstNumber) && checkRulesToSecondVariable(secondNumber)) {
+  if(checkConstraintsToFirstVariable(firstNumber) && checkConstraintsToSecondVariable(secondNumber)) {
     const sum = firstNumber + secondNumber;
     return sum;
   } else {
