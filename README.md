@@ -6,4 +6,4 @@ This repository store some implementations of algorithms that i have been studyi
   
 #### 2 [nodeJS/SimpleArraySum](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/SimpleArraySum): Inspired on ["Simple Array Sum"](https://www.hackerrank.com/challenges/simple-array-sum/problem)  
   
-#### 3 [nodeJS/SimpleArraySum](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/CompareTheTriplets): Inspired on ["Compare the Triplets"](hhttps://www.hackerrank.com/challenges/compare-the-triplets/problem)  
+#### 3 [nodeJS/SimpleArraySum](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/CompareTheTriplets): Inspired on ["Compare the Triplets"](https://www.hackerrank.com/challenges/compare-the-triplets/problem)  
