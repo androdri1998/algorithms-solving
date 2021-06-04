@@ -13,3 +13,5 @@ This repository store some implementations of algorithms that i have been studyi
 #### 5 [nodeJS/TheTimeInWords](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/TheTimeInWords): Inspired on ["The Time in Words"](https://www.hackerrank.com/challenges/the-time-in-words/problem) [MEDIUM]  
   
 #### 6 [nodeJS/MaxMin](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/MaxMin): Inspired on ["Max Min"](https://www.hackerrank.com/challenges/angry-children/problem) [MEDIUM]  
+  
+#### 7 [nodeJS/Pairs](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/Pairs): Inspired on ["Pairs"](https://www.hackerrank.com/challenges/pairs/problem) [MEDIUM]  
