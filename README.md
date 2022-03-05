@@ -15,3 +15,5 @@ This repository store some implementations of algorithms that i have been studyi
 #### 6 [nodeJS/MaxMin](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/MaxMin): Inspired on ["Max Min"](https://www.hackerrank.com/challenges/angry-children/problem) [MEDIUM]  
   
 #### 7 [nodeJS/Pairs](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/Pairs): Inspired on ["Pairs"](https://www.hackerrank.com/challenges/pairs/problem) [MEDIUM]  
+
+#### 8 [nodeJS/2dArrayDs](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/2dArrayDs): Inspired on ["2D Array - DS"](https://www.hackerrank.com/challenges/2d-array/problem) [EASY]  
