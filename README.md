@@ -21,3 +21,5 @@ This repository store some implementations of algorithms that i have been studyi
 #### 9 [nodeJS/DinamicArray](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/DinamicArray/index.js): Inspired on ["Dynamic Array"](https://www.hackerrank.com/challenges/dynamic-array/problem) [EASY]  
 
 #### 10 [nodeJS/ArraysDs](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/ArraysDs/index.js): Inspired on ["Arrays - DS"](https://www.hackerrank.com/challenges/arrays-ds/problem) [EASY]  
+
+#### 11 [nodeJS/SparseArrays](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/SparseArrays/index.js): Inspired on ["Sparse Arrays"](https://www.hackerrank.com/challenges/sparse-arrays/problem) [EASY]  
