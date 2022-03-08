@@ -31,3 +31,5 @@ This repository store some implementations of algorithms that i have been studyi
 #### 14 [nodeJS/TreeHeightBinaryTree](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/TreeHeightBinaryTree/index.ts): Inspired on ["Tree: Height of a Binary Tree"](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) [EASY]  
   
 #### 15 [nodeJS/BalancedBrackets](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/BalancedBrackets/index.js): Inspired on ["Balanced Brackets"](https://www.hackerrank.com/challenges/balanced-brackets/problem) [MEDIUM]  
+  
+#### 16 [nodeJS/Contacts](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/Contacts/index.js): Inspired on ["Contacts"](https://www.hackerrank.com/challenges/contacts/problem) [MEDIUM]  
