@@ -27,3 +27,5 @@ This repository store some implementations of algorithms that i have been studyi
 #### 12 [nodeJS/ArrayManipulation](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/ArrayManipulation/index.js): Inspired on ["Array Manipulation"](https://www.hackerrank.com/challenges/crush/problem) [HARD]  
   
 #### 13 [nodeJS/TreeLevelOrderTraversal](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/TreeLevelOrderTraversal/index.ts): Inspired on ["Tree: Level Order Traversal"](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) [EASY]  
+  
+#### 14 [nodeJS/TreeHeightBinaryTree](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/TreeHeightBinaryTree/index.ts): Inspired on ["Tree: Height of a Binary Tree"](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) [EASY]  
