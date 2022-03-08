@@ -74,7 +74,7 @@ const swap = (node, query, level, list) => {
     }
 }
 
-function swapNodes(indexes, queries) {
+function solution(indexes, queries) {
     let root = new NodeTree(1);
     root = create(root, indexes);
 
