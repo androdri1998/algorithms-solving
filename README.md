@@ -35,3 +35,5 @@ This repository store some implementations of algorithms that i have been studyi
 #### 16 [nodeJS/Contacts](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/Contacts/index.js): Inspired on ["Contacts"](https://www.hackerrank.com/challenges/contacts/problem) [MEDIUM]  
   
 #### 17 [nodeJS/FindRunningMedian](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/FindRunningMedian/index.java): Inspired on ["Find the Running Median"](https://www.hackerrank.com/challenges/find-the-running-median/problem) [HARD]  
+  
+#### 18 [nodeJS/SwapNodesAlgo](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/SwapNodesAlgo/index.js): Inspired on ["Swap Nodes [Algo]"](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) [MEDIUM]  
