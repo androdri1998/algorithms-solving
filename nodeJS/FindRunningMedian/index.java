@@ -1,4 +1,4 @@
-class Result {
+class Solution {
 
     public static void addItem(int item, PriorityQueue<Integer> lowers, PriorityQueue<Integer> highers) {
         if(lowers.size() == 0 || item < lowers.peek()) {
