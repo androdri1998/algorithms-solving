@@ -22,6 +22,8 @@ This repository store some implementations of algorithms that i have been studyi
   
 #### 10 [nodeJS/ArraysDs](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/ArraysDs/index.js): Inspired on ["Arrays - DS"](https://www.hackerrank.com/challenges/arrays-ds/problem) [EASY]  
   
-#### 11 [nodeJS/SparseArrays](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/SparseArrays/index.js): Inspired on ["Sparse Arrays"](https://www.hackerrank.com/challenges/sparse-arrays/problem) [EASY]  
+#### 11 [nodeJS/SparseArrays](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/SparseArrays/index.js): Inspired on ["Sparse Arrays"](https://www.hackerrank.com/challenges/sparse-arrays/problem) [MEDIUM]  
   
-#### 12 [nodeJS/ArrayManipulation](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/ArrayManipulation/index.js): Inspired on ["Array Manipulation"](https://www.hackerrank.com/challenges/crush/problem) [EASY]  
+#### 12 [nodeJS/ArrayManipulation](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/ArrayManipulation/index.js): Inspired on ["Array Manipulation"](https://www.hackerrank.com/challenges/crush/problem) [HARD]  
+  
+#### 13 [nodeJS/TreeLevelOrderTraversal](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/TreeLevelOrderTraversal/index.ts): Inspired on ["Tree: Level Order Traversal"](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) [EASY]  
