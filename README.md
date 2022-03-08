@@ -37,3 +37,5 @@ This repository store some implementations of algorithms that i have been studyi
 #### 17 [nodeJS/FindRunningMedian](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/FindRunningMedian/index.java): Inspired on ["Find the Running Median"](https://www.hackerrank.com/challenges/find-the-running-median/problem) [HARD]  
   
 #### 18 [nodeJS/SwapNodesAlgo](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/SwapNodesAlgo/index.js): Inspired on ["Swap Nodes [Algo]"](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) [MEDIUM]  
+  
+#### 19 [nodeJS/LeftRotation](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/LeftRotation/index.js): Inspired on ["Left Rotation"](https://www.hackerrank.com/challenges/array-left-rotation/problem) [EASY]  
