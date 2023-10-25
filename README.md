@@ -44,3 +44,5 @@ This repository store some implementations of algorithms that i have been studyi
 #### 20 [nodeJS/DiagonalDifference](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/DiagonalDifference/index.js): Inspired on ["Diagonal Difference"](https://www.hackerrank.com/challenges/diagonal-difference/problem) [EASY]
 
 #### 21 [nodeJS/PlusMinus](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/PlusMinus/index.js): Inspired on ["Plus Minus"](https://www.hackerrank.com/challenges/plus-minus/problem) [EASY]
+
+#### 21 [nodeJS/Staircase](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/Staircase/index.js): Inspired on ["Staircase"](https://www.hackerrank.com/challenges/staircase/problem) [EASY]
