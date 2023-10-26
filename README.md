@@ -48,3 +48,5 @@ This repository store some implementations of algorithms that i have been studyi
 #### 21 [nodeJS/Staircase](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/Staircase/index.js): Inspired on ["Staircase"](https://www.hackerrank.com/challenges/staircase/problem) [EASY]
 
 #### 22 [nodeJS/AVeryBigSum](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/AVeryBigSum/index.js): Inspired on ["A Very Big Sum"](https://www.hackerrank.com/challenges/a-very-big-sum/problem) [EASY]
+
+#### 23 [nodeJS/MinMaxSum](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/MinMaxSum/index.js): Inspired on ["Min-Max Sum"](https://www.hackerrank.com/challenges/mini-max-sum/problem) [EASY]
