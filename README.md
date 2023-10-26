@@ -50,3 +50,5 @@ This repository store some implementations of algorithms that i have been studyi
 #### 22 [nodeJS/AVeryBigSum](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/AVeryBigSum/index.js): Inspired on ["A Very Big Sum"](https://www.hackerrank.com/challenges/a-very-big-sum/problem) [EASY]
 
 #### 23 [nodeJS/MinMaxSum](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/MinMaxSum/index.js): Inspired on ["Min-Max Sum"](https://www.hackerrank.com/challenges/mini-max-sum/problem) [EASY]
+
+#### 24 [nodeJS/BirthdayCakeCandles](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/BirthdayCakeCandles/index.js): Inspired on ["Birthday Cake Candles"](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) [EASY]
