@@ -3,52 +3,32 @@
 This repository is only to study about technologies' Node.js and Python.  
 This repository store some implementations of algorithms that i have been studying about.
 
-#### 1 [nodeJS/SolveMeFirst](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/SolveMeFirst/index.js): Inspired on ["Solve Me First"](https://www.hackerrank.com/challenges/solve-me-first/problem) [EASY]
+## Node.js Solutions
 
-#### 2 [nodeJS/SimpleArraySum](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/SimpleArraySum/index.js): Inspired on ["Simple Array Sum"](https://www.hackerrank.com/challenges/simple-array-sum/problem) [EASY]
-
-#### 3 [nodeJS/CompareTheTriplets](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/CompareTheTriplets/index.js): Inspired on ["Compare the Triplets"](https://www.hackerrank.com/challenges/compare-the-triplets/problem) [EASY]
-
-#### 4 [nodeJS/Encryption](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/Encryption/index.js): Inspired on ["Encryption"](https://www.hackerrank.com/challenges/encryption/problem) [MEDIUM]
-
-#### 5 [nodeJS/TheTimeInWords](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/TheTimeInWords/index.js): Inspired on ["The Time in Words"](https://www.hackerrank.com/challenges/the-time-in-words/problem) [MEDIUM]
-
-#### 6 [nodeJS/MaxMin](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/MaxMin/index.js): Inspired on ["Max Min"](https://www.hackerrank.com/challenges/angry-children/problem) [MEDIUM]
-
-#### 7 [nodeJS/Pairs](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/Pairs/index.js): Inspired on ["Pairs"](https://www.hackerrank.com/challenges/pairs/problem) [MEDIUM]
-
-#### 8 [nodeJS/2dArrayDs](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/2dArrayDs/index.js): Inspired on ["2D Array - DS"](https://www.hackerrank.com/challenges/2d-array/problem) [EASY]
-
-#### 9 [nodeJS/DinamicArray](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/DinamicArray/index.js): Inspired on ["Dynamic Array"](https://www.hackerrank.com/challenges/dynamic-array/problem) [EASY]
-
-#### 10 [nodeJS/ArraysDs](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/ArraysDs/index.js): Inspired on ["Arrays - DS"](https://www.hackerrank.com/challenges/arrays-ds/problem) [EASY]
-
-#### 11 [nodeJS/SparseArrays](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/SparseArrays/index.js): Inspired on ["Sparse Arrays"](https://www.hackerrank.com/challenges/sparse-arrays/problem) [MEDIUM]
-
-#### 12 [nodeJS/ArrayManipulation](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/ArrayManipulation/index.js): Inspired on ["Array Manipulation"](https://www.hackerrank.com/challenges/crush/problem) [HARD]
-
-#### 13 [nodeJS/TreeLevelOrderTraversal](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/TreeLevelOrderTraversal/index.ts): Inspired on ["Tree: Level Order Traversal"](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) [EASY]
-
-#### 14 [nodeJS/TreeHeightBinaryTree](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/TreeHeightBinaryTree/index.ts): Inspired on ["Tree: Height of a Binary Tree"](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) [EASY]
-
-#### 15 [nodeJS/BalancedBrackets](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/BalancedBrackets/index.js): Inspired on ["Balanced Brackets"](https://www.hackerrank.com/challenges/balanced-brackets/problem) [MEDIUM]
-
-#### 16 [nodeJS/Contacts](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/Contacts/index.js): Inspired on ["Contacts"](https://www.hackerrank.com/challenges/contacts/problem) [MEDIUM]
-
-#### 17 [nodeJS/FindRunningMedian](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/FindRunningMedian/index.java): Inspired on ["Find the Running Median"](https://www.hackerrank.com/challenges/find-the-running-median/problem) [HARD]
-
-#### 18 [nodeJS/SwapNodesAlgo](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/SwapNodesAlgo/index.js): Inspired on ["Swap Nodes [Algo]"](https://www.hackerrank.com/challenges/swap-nodes-algo/problem) [MEDIUM]
-
-#### 19 [nodeJS/LeftRotation](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/LeftRotation/index.js): Inspired on ["Left Rotation"](https://www.hackerrank.com/challenges/array-left-rotation/problem) [EASY]
-
-#### 20 [nodeJS/DiagonalDifference](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/DiagonalDifference/index.js): Inspired on ["Diagonal Difference"](https://www.hackerrank.com/challenges/diagonal-difference/problem) [EASY]
-
-#### 21 [nodeJS/PlusMinus](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/PlusMinus/index.js): Inspired on ["Plus Minus"](https://www.hackerrank.com/challenges/plus-minus/problem) [EASY]
-
-#### 21 [nodeJS/Staircase](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/Staircase/index.js): Inspired on ["Staircase"](https://www.hackerrank.com/challenges/staircase/problem) [EASY]
-
-#### 22 [nodeJS/AVeryBigSum](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/AVeryBigSum/index.js): Inspired on ["A Very Big Sum"](https://www.hackerrank.com/challenges/a-very-big-sum/problem) [EASY]
-
-#### 23 [nodeJS/MinMaxSum](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/MinMaxSum/index.js): Inspired on ["Min-Max Sum"](https://www.hackerrank.com/challenges/mini-max-sum/problem) [EASY]
-
-#### 24 [nodeJS/BirthdayCakeCandles](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/BirthdayCakeCandles/index.js): Inspired on ["Birthday Cake Candles"](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) [EASY]
+| Directory                                                                                                                              | Description                                                                                                             | Level    |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------- |
+| [nodeJS/SolveMeFirst](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/SolveMeFirst/index.js)                       | Inspired on ["Solve Me First"](https://www.hackerrank.com/challenges/solve-me-first/problem)                            | [EASY]   |
+| [nodeJS/SimpleArraySum](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/SimpleArraySum/index.js)                   | Inspired on ["Simple Array Sum"](https://www.hackerrank.com/challenges/simple-array-sum/problem)                        | [EASY]   |
+| [nodeJS/CompareTheTriplets](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/CompareTheTriplets/index.js)           | Inspired on ["Compare the Triplets"](https://www.hackerrank.com/challenges/compare-the-triplets/problem)                | [EASY]   |
+| [nodeJS/Encryption](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/Encryption/index.js)                           | Inspired on ["Encryption"](https://www.hackerrank.com/challenges/encryption/problem)                                    | [MEDIUM] |
+| [nodeJS/TheTimeInWords](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/TheTimeInWords/index.js)                   | Inspired on ["The Time in Words"](https://www.hackerrank.com/challenges/the-time-in-words/problem)                      | [MEDIUM] |
+| [nodeJS/MaxMin](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/MaxMin/index.js)                                   | Inspired on ["Max Min"](https://www.hackerrank.com/challenges/angry-children/problem)                                   | [MEDIUM] |
+| [nodeJS/Pairs](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/Pairs/index.js)                                     | Inspired on ["Pairs"](https://www.hackerrank.com/challenges/pairs/problem)                                              | [MEDIUM] |
+| [nodeJS/2dArrayDs](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/2dArrayDs/index.js)                             | Inspired on ["2D Array - DS"](https://www.hackerrank.com/challenges/2d-array/problem)                                   | [EASY]   |
+| [nodeJS/DinamicArray](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/DinamicArray/index.js)                       | Inspired on ["Dynamic Array"](https://www.hackerrank.com/challenges/dynamic-array/problem)                              | [EASY]   |
+| [nodeJS/ArraysDs](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/ArraysDs/index.js)                               | Inspired on ["Arrays - DS"](https://www.hackerrank.com/challenges/arrays-ds/problem)                                    | [EASY]   |
+| [nodeJS/SparseArrays](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/SparseArrays/index.js)                       | Inspired on ["Sparse Arrays"](https://www.hackerrank.com/challenges/sparse-arrays/problem)                              | [MEDIUM] |
+| [nodeJS/ArrayManipulation](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/ArrayManipulation/index.js)             | Inspired on ["Array Manipulation"](https://www.hackerrank.com/challenges/crush/problem)                                 | [HARD]   |
+| [nodeJS/TreeLevelOrderTraversal](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/TreeLevelOrderTraversal/index.ts) | Inspired on ["Tree: Level Order Traversal"](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem)   | [EASY]   |
+| [nodeJS/TreeHeightBinaryTree](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/TreeHeightBinaryTree/index.ts)       | Inspired on ["Tree: Height of a Binary Tree"](https://www.hackerrank.com/challenges/tree-level-order-traversal/problem) | [EASY]   |
+| [nodeJS/BalancedBrackets](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/BalancedBrackets/index.js)               | Inspired on ["Balanced Brackets"](https://www.hackerrank.com/challenges/balanced-brackets/problem)                      | [MEDIUM] |
+| [nodeJS/Contacts](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/Contacts/index.js)                               | Inspired on ["Contacts"](https://www.hackerrank.com/challenges/contacts/problem)                                        | [MEDIUM] |
+| [nodeJS/FindRunningMedian](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/FindRunningMedian/index.java)           | Inspired on ["Find the Running Median"](https://www.hackerrank.com/challenges/find-the-running-median/problem)          | [HARD]   |
+| [nodeJS/SwapNodesAlgo](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/SwapNodesAlgo/index.js)                     | Inspired on ["Swap Nodes [Algo]"](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)                        | [MEDIUM] |
+| [nodeJS/LeftRotation](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/LeftRotation/index.js)                       | Inspired on ["Left Rotation"](https://www.hackerrank.com/challenges/array-left-rotation/problem)                        | [EASY]   |
+| [nodeJS/DiagonalDifference](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/DiagonalDifference/index.js)           | Inspired on ["Diagonal Difference"](https://www.hackerrank.com/challenges/diagonal-difference/problem)                  | [EASY]   |
+| [nodeJS/PlusMinus](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/PlusMinus/index.js)                             | Inspired on ["Plus Minus"](https://www.hackerrank.com/challenges/plus-minus/problem)                                    | [EASY]   |
+| [nodeJS/Staircase](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/Staircase/index.js)                             | Inspired on ["Staircase"](https://www.hackerrank.com/challenges/staircase/problem)                                      | [EASY]   |
+| [nodeJS/AVeryBigSum](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/AVeryBigSum/index.js)                         | Inspired on ["A Very Big Sum"](https://www.hackerrank.com/challenges/a-very-big-sum/problem)                            | [EASY]   |
+| [nodeJS/MinMaxSum](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/MinMaxSum/index.js)                             | Inspired on ["Min-Max Sum"](https://www.hackerrank.com/challenges/mini-max-sum/problem)                                 | [EASY]   |
+| [nodeJS/BirthdayCakeCandles](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/BirthdayCakeCandles/index.js)         | Inspired on ["Birthday Cake Candles"](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)              | [EASY]   |
