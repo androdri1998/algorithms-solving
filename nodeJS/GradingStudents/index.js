@@ -1,20 +1,27 @@
 function solution(grades) {
+  const gradeMap = new Map();
+
+  let multiple = 0;
+  for (let index = 0; index <= 100; index++) {
+    gradeMap.set(index, multiple);
+
+    if (index === multiple) {
+      multiple += 5;
+    }
+  }
+
   for (let index = 0; index < grades.length; index++) {
-    if (grades[index] < 38) {
+    let currentGrade = grades[index];
+
+    if (currentGrade < 38) {
       continue;
     }
 
-    let nextMultiple = grades[index];
-    let steps = 0;
-
-    while (nextMultiple % 5 !== 0) {
-      steps++;
-      nextMultiple++;
-    }
+    let nextMultiple = gradeMap.get(currentGrade);
+    let steps = nextMultiple - currentGrade;
 
     if (steps < 3) {
       grades[index] = nextMultiple;
-      continue;
     }
   }
 
