@@ -35,3 +35,9 @@ This repository store some implementations of algorithms that i have been studyi
 | [nodeJS/Pairs](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/Pairs/index.js)                                     | Inspired on ["Pairs"](https://www.hackerrank.com/challenges/pairs/problem)                                              | [MEDIUM] |
 | [nodeJS/FindRunningMedian](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/FindRunningMedian/index.java)           | Inspired on ["Find the Running Median"](https://www.hackerrank.com/challenges/find-the-running-median/problem)          | [HARD]   |
 | [nodeJS/ArrayManipulation](https://github.com/androdri1998/algorithms-solving/tree/main/nodeJS/ArrayManipulation/index.js)             | Inspired on ["Array Manipulation"](https://www.hackerrank.com/challenges/crush/problem)                                 | [HARD]   |
+
+## GO Solutions
+
+| Directory                                                                                               | Description                                                                                  | Level  |
+| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------ |
+| [GO/SolveMeFirst](https://github.com/androdri1998/algorithms-solving/tree/main/GO/SolveMeFirst/main.go) | Inspired on ["Solve Me First"](https://www.hackerrank.com/challenges/solve-me-first/problem) | [EASY] |
