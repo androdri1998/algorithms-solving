@@ -38,6 +38,7 @@ This repository store some implementations of algorithms that i have been studyi
 
 ## GO Solutions
 
-| Directory                                                                                               | Description                                                                                  | Level  |
-| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------ |
-| [GO/SolveMeFirst](https://github.com/androdri1998/algorithms-solving/tree/main/GO/SolveMeFirst/main.go) | Inspired on ["Solve Me First"](https://www.hackerrank.com/challenges/solve-me-first/problem) | [EASY] |
+| Directory                                                                                                   | Description                                                                                      | Level  |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------ |
+| [GO/SolveMeFirst](https://github.com/androdri1998/algorithms-solving/tree/main/GO/SolveMeFirst/main.go)     | Inspired on ["Solve Me First"](https://www.hackerrank.com/challenges/solve-me-first/problem)     | [EASY] |
+| [GO/SimpleArraySum](https://github.com/androdri1998/algorithms-solving/tree/main/GO/SimpleArraySum/main.go) | Inspired on ["Simple Array Sum"](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [EASY] |
