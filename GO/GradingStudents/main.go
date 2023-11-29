@@ -31,5 +31,5 @@ func solution(grades []int32) []int32 {
 
 func main() {
 	fmt.Println(solution([]int32{20, 39, 52, 54}))
-	// output: [20 40 52 65]
+	// output: [20 40 52 55]
 }
