@@ -43,4 +43,4 @@ This repository store some implementations of algorithms that i have been studyi
 | [GO/SolveMeFirst](/GO/SolveMeFirst/main.go)             | Inspired on ["Solve Me First"](https://www.hackerrank.com/challenges/solve-me-first/problem)             | [EASY] |
 | [GO/SimpleArraySum](/GO/SimpleArraySum/main.go)         | Inspired on ["Simple Array Sum"](https://www.hackerrank.com/challenges/simple-array-sum/problem)         | [EASY] |
 | [GO/CompareTheTriplets](/GO/CompareTheTriplets/main.go) | Inspired on ["Compare The Triplets"](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [EASY] |
-| [GO/CompareTheTriplets](/GO/GradingStudents/main.go)    | Inspired on ["Grading Students"](https://www.hackerrank.com/challenges/grading/problem)                  | [EASY] |
+| [GO/GradingStudents](/GO/GradingStudents/main.go)       | Inspired on ["Grading Students"](https://www.hackerrank.com/challenges/grading/problem)                  | [EASY] |
