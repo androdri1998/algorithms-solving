@@ -21,7 +21,7 @@ function solution(s, d, m) {
 
 const main = () => {
   console.log(solution([2, 3, 2, 4, 3], 5, 2));
-  // output: 5
+  // output: 2
 };
 
 main();
