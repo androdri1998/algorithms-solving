@@ -8,9 +8,9 @@ function pickingNumbers(a) {
       const itemToCompare = a[j];
       const result = item - itemToCompare;
 
-      const isBiggerThanZero = result >= 0;
-      const isLessThanOne = result <= 1;
-      if (isBiggerThanZero && isLessThanOne) {
+      const isBiggerThanOrEqualToZero = result >= 0;
+      const isLessThanOrEqualToOne = result <= 1;
+      if (isBiggerThanOrEqualToZero && isLessThanOrEqualToOne) {
         currentMax = currentMax + 1;
       }
     }
