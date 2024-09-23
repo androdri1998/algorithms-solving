@@ -1,6 +1,5 @@
 function squares(a, b) {
-  const squares = [];
-
+  let amountSQRT = 0;
   const aParsed = parseInt(a);
   const bParsed = parseInt(b);
   const aSQRT = Math.trunc(Math.sqrt(aParsed));
@@ -11,11 +10,11 @@ function squares(a, b) {
 
     const isBetweenAandB = result >= aParsed && result <= bParsed;
     if (isBetweenAandB) {
-      squares.push(result);
+      amountSQRT = amountSQRT + 1;
     }
   }
 
-  return squares.length;
+  return amountSQRT;
 }
 
 console.log(squares(0, 100));
