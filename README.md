@@ -52,3 +52,4 @@ This repository store some implementations of algorithms that i have been studyi
 | [GO/GradingStudents](/GO/GradingStudents/main.go)             | Inspired on ["Grading Students"](https://www.hackerrank.com/challenges/grading/problem)                             | [EASY] |
 | [GO/CircularArrayRotation](/GO/CircularArrayRotation/main.go) | Inspired on ["Circular Array Rotation"](https://www.hackerrank.com/challenges/circular-array-rotation/problem)      | [EASY] |
 | [GO/BreakingTheRecords](/GO/BreakingTheRecords/main.go)       | Inspired on ["Breaking the Records"](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [EASY] |
+| [GO/DivisibleSumPairs](/GO/DivisibleSumPairs/main.go)         | Inspired on ["Divisible Sum Pairs"](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)              | [EASY] |
